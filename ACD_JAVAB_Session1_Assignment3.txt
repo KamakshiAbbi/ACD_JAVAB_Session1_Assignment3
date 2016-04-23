@@ -1,0 +1,6 @@
+//Session1_Assignment3
+//Author : Kamakshi Abbi
+
+Two examples of data that cant be stored in variable of int:
+1) 7.8 (double)
+2) "Hello" (string)
